@@ -1,0 +1,22 @@
+export const user  = [
+    {
+        name:"Rao",
+        age:19,
+        id:20
+    },
+    {
+        name:"Ali",
+        age:19,
+        id:23
+    },
+    {
+        name:"Murad",
+        age:19,
+        id:22
+    },
+    {
+        name:"Shah",
+        age:29,
+        id:21
+    },
+]
